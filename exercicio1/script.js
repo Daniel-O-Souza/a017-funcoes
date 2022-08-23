@@ -43,3 +43,5 @@ const tabuada = (numero) => {
 
 tabuada(6)
 
+tabuada(8)
+
